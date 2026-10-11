@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Tarun 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00E64D&vCenter=true&width=440&height=40&lines=2nd-year+BTech+CSE+%40+VIT+Chennai;Building+PulseVault+-+a+blockchain+digital+will;Autonomous+drone+software+for+NIDAR;Python+%7C+AI%2FML+%7C+Solidity+%7C+Automation" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00E64D&vCenter=true&width=440&height=40&lines=2nd-year+BTech+CSE+%40+VIT+Chennai;Building+PulseVault+-+a+blockchain+digital+will;Autonomous+drone+software+for+NIDAR;Python+%7C+AI%2FML+%7C+JAVA+%7C+Automation+%7C+Solidity" alt="Typing animation" />
 
 **Web app developer and real-time problem solver.** I build practical, deployed products in **React, TypeScript, Python and Java**, and I'm sharpening my skills in **AI/ML, cloud and cybersecurity**.
 
