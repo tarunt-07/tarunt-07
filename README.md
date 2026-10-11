@@ -10,13 +10,10 @@ I build **AI, blockchain and autonomous-systems** projects and ship them in publ
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/tarun-kumar-693291385/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.linkedin.com/company/109874324"><img src="https://img.shields.io/badge/TarunBuilds-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="TarunBuilds" /></a>
-<a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Say_Hi-00E64D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=tarunt-07&label=Profile+Views&color=0B4A22&style=for-the-badge" alt="Profile views" />
-
-<!-- TODO: replace YOUR-LINKEDIN-ID, YOUR-LEETCODE-USERNAME and your.email@example.com, then delete this comment -->
+<a href="https://leetcode.com/u/taroon_/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=tarunjan2007@gmail.com&amp;su=Hello%20Tarun&amp;body=Hi%20Tarun%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20connect.%0A%0AThanks%2C"><img src="https://img.shields.io/badge/Email-Say_Hi-00E64D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
 
 <img src="https://raw.githubusercontent.com/tarunt-07/tarunt-07/main/assets/pulse-divider.svg" width="100%" alt="" />
 
@@ -80,7 +77,7 @@ I build **AI, blockchain and autonomous-systems** projects and ship them in publ
 ## 🧩 LeetCode
 
 <div align="center">
-<a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/"><img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" /></a>
+<a href="https://leetcode.com/u/taroon_/"><img src="https://leetcard.jacoblin.cool/taroon_?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" /></a>
 </div>
 
 <div align="center">
