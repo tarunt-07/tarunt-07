@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/company/109874324"><img src="https://img.shields.io/badge/TarunBuilds-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="TarunBuilds" /></a>
 <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Say_Hi-00E64D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=tarunt-07&label=Profile+Views&color=0B4A22&style=for-the-badge" alt="Profile views" />
+
 
 <!-- TODO: replace YOUR-LINKEDIN-ID, YOUR-LEETCODE-USERNAME and your.email@example.com, then delete this comment -->
 
