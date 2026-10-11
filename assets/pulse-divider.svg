@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 40" width="1000" height="40" role="img" aria-label="Animated heartbeat divider">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".12" stop-color="#fff"/><stop offset=".88" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="em"><rect width="1000" height="40" fill="url(#edge)"/></mask>
+    <filter id="g" x="-10%" y="-100%" width="120%" height="300%"><feGaussianBlur stdDeviation="2.5"/></filter>
+  </defs>
+  <g mask="url(#em)" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M0 20 L70 20 L84 20 L89 15 L94 20 L100 20 L105 25 L113 3 L121 37 L127 20 L137 20 L142 16 L147 20 L155 20 L310 20 L324 20 L329 15 L334 20 L340 20 L345 25 L353 3 L361 37 L367 20 L377 20 L382 16 L387 20 L395 20 L550 20 L564 20 L569 15 L574 20 L580 20 L585 25 L593 3 L601 37 L607 20 L617 20 L622 16 L627 20 L635 20 L790 20 L804 20 L809 15 L814 20 L820 20 L825 25 L833 3 L841 37 L847 20 L857 20 L862 16 L867 20 L875 20 L1000 20" pathLength="1000" stroke="#0B4A22" stroke-width="1.6"/>
+    <path d="M0 20 L70 20 L84 20 L89 15 L94 20 L100 20 L105 25 L113 3 L121 37 L127 20 L137 20 L142 16 L147 20 L155 20 L310 20 L324 20 L329 15 L334 20 L340 20 L345 25 L353 3 L361 37 L367 20 L377 20 L382 16 L387 20 L395 20 L550 20 L564 20 L569 15 L574 20 L580 20 L585 25 L593 3 L601 37 L607 20 L617 20 L622 16 L627 20 L635 20 L790 20 L804 20 L809 15 L814 20 L820 20 L825 25 L833 3 L841 37 L847 20 L857 20 L862 16 L867 20 L875 20 L1000 20" pathLength="1000" stroke="#00E64D" stroke-width="3" stroke-dasharray="120 880" filter="url(#g)" opacity=".9">
+      <animate attributeName="stroke-dashoffset" values="0;-1000" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 20 L70 20 L84 20 L89 15 L94 20 L100 20 L105 25 L113 3 L121 37 L127 20 L137 20 L142 16 L147 20 L155 20 L310 20 L324 20 L329 15 L334 20 L340 20 L345 25 L353 3 L361 37 L367 20 L377 20 L382 16 L387 20 L395 20 L550 20 L564 20 L569 15 L574 20 L580 20 L585 25 L593 3 L601 37 L607 20 L617 20 L622 16 L627 20 L635 20 L790 20 L804 20 L809 15 L814 20 L820 20 L825 25 L833 3 L841 37 L847 20 L857 20 L862 16 L867 20 L875 20 L1000 20" pathLength="1000" stroke="#E8FFEE" stroke-width="1.8" stroke-dasharray="70 930">
+      <animate attributeName="stroke-dashoffset" values="0;-1000" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
