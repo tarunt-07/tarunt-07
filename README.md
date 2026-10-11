@@ -74,18 +74,4 @@
 
 </div>
 
-## 🧩 LeetCode
 
-<div align="center">
-<a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/"><img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" /></a>
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tarunt-07/tarunt-07/main/assets/pulse-divider.svg" width="100%" alt="" />
-
-<sub>Thanks for stopping by. If something here is useful, a ⭐ on the repo is always appreciated.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E64D,50:0B4A22,100:020A06&height=110&section=footer" width="100%" alt="" />
-
-</div>
