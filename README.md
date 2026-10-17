@@ -36,9 +36,6 @@ CSE Undergrad @ VIT Chennai | Building autonomous systems, decentralized archite
 | **AEROSAR** | Autonomous drone software for **NIDAR** (National Innovation Challenge for Drone Application and Research). Currently building the Ground Control Station. | `Drones` `ML` `GCS` |
 | **[File Xtractor](https://github.com/SoulofSpace/File-Extractor)** | Offline multimodal file search engine with hybrid retrieval over text, images and scans. | `SQLite FTS5` `Tesseract` `SBERT` `CLIP` |
 | **[CommitLog Automation](https://github.com/tarunt-07/CommitLog_Automation)** | n8n workflow: repo webhook, Gemini commit summary, LinkedIn post, Gmail confirmation. | `n8n` `Gemini API` |
-| **AirDoodle** | Gesture-controlled AI drawing canvas: draw in the air using just your hand and a webcam. | `Python` `MediaPipe` `OpenCV` |
-| **AI Virtual Keyboard** | Camera-based virtual keyboard with brightness control and Windows app-launcher keys. | `Python` `OpenCV` |
-| **NovaPay** | Mobile banking UI concept with "Togo", an AI assistant with a super-dog mascot. Built for a workshop submission. | `Google Stitch` `UI/UX` |
 | **JUDGE-evaluation** | Round-2 judging platform built for the Vmedithon 3.0 hackathon. | `Web` |
 
 <!-- Add links by changing a name to [Name](https://github.com/tarunt-07/REPO-NAME) -->
