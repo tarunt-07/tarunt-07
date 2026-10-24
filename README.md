@@ -1,4 +1,4 @@
-<img align="right" width="300" src="https://raw.githubusercontent.com/tarunt-07/tarunt-07/main/assets/hologram.gif" alt="Binary-rain hologram of Tarun" />
+
 
 <h1>Hi, I'm Tarun 👋</h1>
 
